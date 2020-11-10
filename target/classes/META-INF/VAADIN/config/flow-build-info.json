@@ -1,0 +1,14 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/markus/Development/my-webapp",
+  "generatedFolder": "/Users/markus/Development/my-webapp/target/frontend",
+  "frontendFolder": "/Users/markus/Development/my-webapp/frontend",
+  "connect.javaSourceFolder": "/Users/markus/Development/my-webapp/src/main/java",
+  "connect.applicationProperties": "/Users/markus/Development/my-webapp/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/markus/Development/my-webapp/target/generated-resources/openapi.json",
+  "connect.generated": "/Users/markus/Development/my-webapp/frontend/generated",
+  "pnpm.enable": true,
+  "require.home.node": false
+}
